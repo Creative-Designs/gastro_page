@@ -1,0 +1,244 @@
+.heading_one{
+	font-size:36px;
+	font-family:'Century Gothic';
+	color:#474747;
+	
+}
+.banner_part{
+	background:url('img/DESIGN- GASTRO SERIES .jpg')no-repeat;
+	min-height:400px;
+	
+	margin:30px 0 30px 0;
+}
+.banner_part_2{
+	background:url('img/DESIGN- 2.jpg')no-repeat;
+	min-height:400px;
+	
+	margin:30px 0 30px 0;
+}
+.banner_part_3{
+		background:url('img/DESIGN- 3.jpg')no-repeat;
+	min-height:400px;
+	
+	margin:30px 0 30px 0;
+}
+.banner_part_4{
+	background:url('img/DESIGN- 4.jpg')no-repeat;
+	min-height:400px;
+	
+	margin:30px 0 30px 0;
+}
+
+.banner_part_5{
+	background:url('img/DESIGN- 5.jpg')no-repeat;
+	min-height:400px;
+	
+	margin:30px 0 30px 0;
+}
+
+.banner_part_6{
+	background:url('img/DESIGN- 6.jpg')no-repeat;
+	min-height:400px;
+	
+	margin:30px 0 30px 0;
+}
+.banner_part_7{
+	background:url('img/DESIGN- 7.jpg')no-repeat;
+	min-height:400px;
+	
+	margin:30px 0 30px 0;
+}
+.banner_part_8{
+	background:url('img/DESIGN- 8.jpg')no-repeat;
+	min-height:400px;
+	
+	margin:30px 0 30px 0;
+}
+.banner_part_9{
+	background:url('img/DESIGN- 9.jpg')no-repeat;
+	min-height:400px;
+	
+	margin:30px 0 30px 0;
+}
+.banner_part_10{
+	background:url('img/DESIGN- 10.jpg')no-repeat;
+	min-height:400px;
+	
+	margin:30px 0 30px 0;
+}
+
+
+
+.description_para{
+	font-size:16px;
+	color:#5F5F5F;
+	margin:10px 0 20px 0;
+}
+.time_para{
+	font-size:26px;
+	color:#22ACCD;
+	margin:10px 0 20px 0;
+}
+.register_btn{
+	background:#F89F04;
+	border-radius:0;
+	width:150px;
+	height:50px;
+	font-size:16px;
+	margin:0 0 40px 0;
+	border:none;
+	transition:.2s ease;
+}
+.register_btn:hover{
+	background:#fff;
+	border:2px solid #F89F04;
+	color:#F89F04;
+	transition:.2s ease;
+}
+
+
+/*=================media query start====================*/
+
+@media screen and (min-width:100px) and (max-width:767px){
+ body {
+       overflow-x: hidden !important;
+    }
+    .container {
+        max-width: 100% !important;
+        overflow-x: hidden !important;
+    }
+	
+.heading_one{
+	font-size:26px;
+	font-family:'Century Gothic';
+	color:#474747;
+}
+
+.banner_part{
+	background:url('img/mob/DESIGN- GASTRO SERIES _mob.jpg')no-repeat;
+	min-height:180px;
+	
+	margin:30px 0 5px 0;
+}
+.banner_part_2{
+	background:url('img/mob/DESIGN- 2_mob.jpg')no-repeat;
+	min-height:180px;
+	
+	margin:30px 0 30px 0;
+}
+.banner_part_3{
+		background:url('img/mob/DESIGN- 3_mob.jpg')no-repeat;
+	min-height:180px;
+	
+	margin:30px 0 30px 0;
+}
+.banner_part_4{
+	background:url('img/mob/DESIGN- 4_mob.jpg')no-repeat;
+	min-height:180px;
+	
+	margin:30px 0 30px 0;
+}
+
+.banner_part_5{
+	background:url('img/mob/DESIGN- 5_mob.jpg')no-repeat;
+	min-height:180px;
+	
+	margin:30px 0 30px 0;
+}
+
+.banner_part_6{
+	background:url('img/mob/DESIGN- 6_mob.jpg')no-repeat;
+	min-height:180px;
+	
+	margin:30px 0 30px 0;
+}
+.banner_part_7{
+	background:url('img/mob/DESIGN- 7_mob.jpg')no-repeat;
+	min-height:180px;
+	
+	margin:30px 0 30px 0;
+}
+.banner_part_8{
+	background:url('img/mob/DESIGN- 8_mob.jpg')no-repeat;
+	min-height:180px;
+	
+	margin:30px 0 30px 0;
+}
+.banner_part_9{
+	background:url('img/mob/DESIGN- 9_mob.jpg')no-repeat;
+	min-height:180px;
+	
+	margin:30px 0 30px 0;
+}
+.banner_part_10{
+	background:url('img/mob/DESIGN- 10_mob.jpg')no-repeat;
+	min-height:180px;
+	
+	margin:30px 0 30px 0;
+}
+
+
+
+
+
+
+
+
+
+	
+}
+/*=============media query ipad============*/
+@media screen and (min-width:768px) and (max-width:992px){
+ body {
+       overflow-x: hidden !important;
+    }
+    .container {
+        max-width: 100% !important;
+        overflow-x: hidden !important;
+    }
+		
+.heading_one{
+	font-size:36px;
+	font-family:'Century Gothic';
+	color:#474747;
+}
+.banner_part{
+	background:url('img/banner - Copy (2).jpg')no-repeat;
+	
+}
+
+
+}
+/*=============media query ipad pro============*/
+@media screen and (min-width:993px) and (max-width:1200px){
+ body {
+       overflow-x: hidden !important;
+    }
+    .container {
+        max-width: 100% !important;
+        overflow-x: hidden !important;
+    }
+		
+.heading_one{
+	font-size:36px;
+	font-family:'Century Gothic';
+	color:#474747;
+}
+.banner_part{
+	background:url('img/banner_mob.jpg')no-repeat;
+	
+}
+
+	
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
